@@ -30,3 +30,7 @@ yarn-error.log*
 
 # vercel
 .vercel
+
+# prisma DB URL
+
+DATABASE_URL="postgresql://postgres:Tx6OHrMFCw1CMAYbMBxf@containers-us-west-55.railway.app:5438/railway"
